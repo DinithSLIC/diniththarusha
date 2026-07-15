@@ -103,7 +103,7 @@ A collaborative platform that helps students find compatible study partners base
 ## 🌐 Let's Connect
 
 - **GitHub**: [github.com/DinithSLIC](https://github.com/DinithSLIC)
-- **LinkedIn**: [linkedin.com/in/dinith-tharusha-8465b12a4](https://www.linkedin.com/in/dinith-tharusha-8465b12a4)
+- **LinkedIn**: [linkedin.com/in/diniththarusha](https://www.linkedin.com/in/diniththarusha)
 - **Portfolio**: [diniththarusha.netlify.app](https://diniththarusha.netlify.app)
 - **Email**: [Open to inquiries through LinkedIn]
 
